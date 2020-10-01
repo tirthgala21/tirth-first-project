@@ -1,2 +1,2 @@
 # tirth-first-project
-learning html.
+learning html from India's no.1 site.
